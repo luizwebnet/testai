@@ -26,6 +26,7 @@ A question-answering system for medical diseases.
 
 ## Improvements
 
+- Need more training - "epoch"
 - Add more diverse medical questions
 - Add confidence scoring for answers
 - Deploy as an API service"# testai" 
